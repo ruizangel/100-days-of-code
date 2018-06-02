@@ -4,15 +4,30 @@
 
 **Today's Progress:** Started with Ray Wenderlich (raywenderlich.com) Swift Course, finish with Part 1: Core Concepts.
 
-**Thoughts:** When through how to use Swift Playgrounds, tuples, booleans and scope, starting easy but feeling confident that I will be doing well during the course.
+**Thoughts:** Learning how to use Swift Playgrounds, tuples, booleans and scope, starting easy but feeling confident that I will be doing well during the course.
 
 **Link to work:**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Day 2:** May 31, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Finish with Part 2: Flow Control.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Learning how to use Loops, While Loops, For Loops, keeping up learning the basics.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:**
+
+**Day 3:** June 01, 2018
+
+**Today's Progress:** Finish with Part 3: Functions and Optionals.
+
+**Thoughts:** Learning how to use Functions and Optionals.
+
+**Link to work:**
+
+**Day 4:** June 02, 2018
+
+**Today's Progress:** Finish with Part 4: Collections.
+
+**Thoughts:** Learning how to use Arrays, Dictionares, Closures, Strings.
+
+**Link to work:**
