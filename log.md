@@ -26,8 +26,44 @@
 
 **Day 4:** June 02, 2018
 
-**Today's Progress:** Finish with Part 4: Collections.
+**Today's Progress:** Going through Part 4: Collections.
+
+**Thoughts:** Learning how to use Arrays, Dictionares, Sets, Closures, Strings.
+
+**Link to work:**
+
+**Day 5:** June 03, 2018
+
+**Today's Progress:** Still on Part 4: Collections.
+
+**Thoughts:** Learning how to use Arrays, Dictionares, Sets, Closures, Strings.
+
+**Link to work:**
+
+**Day 6:** June 04, 2018
+
+**Today's Progress:** Still on Part 4: Collections.
 
 **Thoughts:** Learning how to use Arrays, Dictionares, Closures, Strings.
 
 **Link to work:**
+
+**Day 7:** June 05, 2018
+
+**Today's Progress:** Still on Part 4: Collections.
+
+**Thoughts:** Learning how to use Arrays, Dictionares, Closures, Strings.
+
+**Link to work:**
+
+**Day 8:** June 06, 2018
+
+**Today's Progress:** Finally finish with Part 4: Collections and started Part 5: Structures
+
+**Thoughts:** Learning how to use Structures, Properties, Methods.
+
+**Link to work:**
+
+
+
+
