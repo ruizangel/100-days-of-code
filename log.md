@@ -64,6 +64,12 @@
 
 **Link to work:**
 
+**Day 9:** June 07, 2018
 
+**Today's Progress:** Going through Part 5: Structures
+
+**Thoughts:** Learning how to use Structures, Properties, Methods.
+
+**Link to work:**
 
 
